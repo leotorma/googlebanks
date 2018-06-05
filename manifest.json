@@ -6,7 +6,7 @@
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "/https://leotorma.github.io/googlebanks/googlebanks.html",
+  "start_url": "https://leotorma.github.io/googlebanks/googlebanks.html",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
